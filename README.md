@@ -44,3 +44,9 @@ Definition:
 
 - Hover or shoe: **cmd+u**
 - Go to the Definition: **cmd+shift+u**
+
+# Contributing
+
+By incorporating these extensions and shortcuts, you can transform VS Code into a powerful, efficient, and Vim-like IDE that meets the demands of modern development workflows.
+
+I would greatly appreciate any advice or suggestions on how to further improve my setup. If you have any tips or know of other useful extensions and shortcuts, please let me know. Your help would be invaluable as I continue to refine my development environment.
