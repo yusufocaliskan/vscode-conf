@@ -1,0 +1,390 @@
+{
+  "workbench.editor.enablePreview": true,
+  "workbench.editor.enablePreviewFromQuickOpen": true,
+  "workbench.editor.showTabs": true,
+  "remote.SSH.useLocalServer": false,
+  "terminal.integrated.inheritEnv": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.statusBar.visible": true,
+  "editor.formatOnSave": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.unicodeHighlight.allowedLocales": {
+    "tr": true
+  },
+  "editor.fontFamily": "FiraCode-Retina",
+  "redhat.telemetry.enabled": true,
+  "editor.renderWhitespace": "none",
+  "editor.renderControlCharacters": false,
+  "editor.glyphMargin": false,
+  "editor.scrollbar.horizontalScrollbarSize": 4,
+  "editor.scrollbar.vertical": "hidden",
+  "breadcrumbs.enabled": false,
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "animations.Install-Method": "Apc Customize UI++",
+  "update.mode": "manual",
+  "apc.imports": [
+    "file:///Users/yusufcaliskan/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.1/dist/updateHandler.js"
+  ],
+  "apc.electron": {
+    "transparent": true,
+    "titleBarStyle": "hidden"
+  },
+  "apc.statusBar": {
+    "position": "top",
+    "height": 25
+  },
+  "window.titleBarStyle": "native",
+  "window.density.editorTabHeight": "compact",
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "workbench.commandPalette.history": 5000,
+  "workbench.localHistory.maxFileEntries": 1000,
+  "errorLens.messageEnabled": true,
+  "editor.wrappingStrategy": "advanced",
+  "chat.editor.wordWrap": "on",
+  "gitlens.codeLens.enabled": false,
+  "go.toolsManagement.autoUpdate": true,
+  "vim.history": 5000,
+  "vim.sneak": true,
+  "vim.statusBarColorControl": true,
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#005f87",
+    "statusBar.noFolderBackground": "#005f87",
+    "statusBar.debuggingBackground": "#005f87",
+    "statusBar.foreground": "#ffffff",
+    "statusBar.debuggingForeground": "#ffffff"
+  },
+  "vim.searchHighlightColor": "yellow",
+  "vim.searchHighlightTextColor": "black",
+  "vim.highlightedyank.color": "#3545f6",
+  "vim.highlightedyank.enable": true,
+  "vim.targets.enable": true,
+  "vim.handleKeys": {
+    "<C-d>": true,
+    "<C-s>": false,
+    "<C-z>": false
+  },
+  "vim.shell": "!",
+  "vim.camelCaseMotion.enable": true,
+  "vim.easymotion": true,
+  "go.diagnostic.vulncheck": "Imports",
+  "gopls": {},
+  "terminal.integrated.tabs.location": "left",
+  "terminal.integrated.tabs.enabled": false,
+  "terminal.integrated.fontSize": 16,
+  "javascript.inlayHints.parameterNames.enabled": "all",
+  "editor.inlayHints.enabled": "off",
+  "explorer.compactFolders": false,
+  "remote.SSH.connectTimeout": 15,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  // "[prisma]": {
+  //   "editor.defaultFormatter": "Prisma.prisma"
+  // },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.codeActionsOnSave": {
+    "source.addMissingImports": "always",
+    "source.organizeImports": "always",
+    "source.fixAll": "always",
+    "source.fixAll.eslint": "always"
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  // "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorSurroundingLines": 10,
+  "editor.fontLigatures": false,
+  "editor.fontWeight": "300",
+  "editor.inlineSuggest.enabled": true,
+  "editor.linkedEditing": true,
+  "editor.minimap.enabled": false,
+  "editor.smoothScrolling": true,
+  "editor.stickyScroll.enabled": true,
+  "editor.suggestFontSize": 14,
+  "errorLens.fontStyleItalic": true,
+  "explorer.confirmDelete": true,
+  "explorer.confirmDragAndDrop": true,
+  "extensions.autoUpdate": "onlyEnabledExtensions",
+  "extensions.ignoreRecommendations": false,
+  "prettier.singleAttributePerLine": true,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "projectManager.git.baseFolders": ["$home/workspace"],
+  // "projectManager.sortList": "Recent",
+  // "sortJSON.orderOverride": [
+  //   "name",
+  //   "version",
+  //   "main",
+  //   "module",
+  //   "types",
+  //   "typings",
+  //   "files",
+  //   "publishConfig",
+  //   "repository",
+  //   "scripts",
+  //   "prefix",
+  //   "description",
+  //   "body"
+  // ],
+  // "sortJSON.orderUnderride": [
+  //   "resolutions",
+  //   "dependencies",
+  //   "devDependencies",
+  //   "peerDependencies",
+  //   "cSpell.userWords"
+  // ],
+
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "update.showReleaseNotes": false,
+  "vim.foldfix": true,
+  "vim.highlightedyank.textColor": "white",
+  "vim.highlightedyank.duration": 250,
+  "vim.hlsearch": true,
+  "vim.leader": "<space>",
+  "vim.normalModeKeyBindingsNonRecursive": [
+    {
+      "before": ["leader", "f", "r"],
+      "commands": ["find-it-faster.findWithinFiles"]
+    },
+    {
+      "key": "ctrl+j",
+      "command": "workbench.action.quickOpenSelectNext",
+      "when": "inQuickOpen"
+    },
+    {
+      "key": "ctrl+k",
+      "command": "workbench.action.quickOpenSelectPrevious",
+      "when": "inQuickOpen"
+    },
+    {
+      "key": "h",
+      "command": "editor.action.scrollLeftHover",
+      "when": "editorHoverFocused"
+    },
+    {
+      "key": "j",
+      "command": "editor.action.scrollDownHover",
+      "when": "editorHoverFocused"
+    },
+    {
+      "key": "k",
+      "command": "editor.action.scrollUpHover",
+      "when": "editorHoverFocused"
+    },
+    {
+      "key": "l",
+      "command": "editor.action.scrollRightHover",
+      "when": "editorHoverFocused"
+    },
+    {
+      "before": ["g", "p", "d"],
+      "commands": ["editor.action.peekDefinition"]
+    },
+    {
+      "before": ["g", "h"],
+      "commands": ["editor.action.showDefinitionPreviewHover"]
+    },
+    {
+      "before": ["g", "i"],
+      "commands": ["editor.action.goToImplementation"]
+    },
+    {
+      "before": ["g", "p", "i"],
+      "commands": ["editor.action.peekImplementation"]
+    },
+    {
+      "before": ["g", "q"],
+      "commands": ["editor.action.quickFix"]
+    },
+    {
+      "before": ["g", "r"],
+      "commands": ["editor.action.referenceSearch.trigger"]
+    },
+    {
+      "before": ["g", "t"],
+      "commands": ["editor.action.goToTypeDefinition"]
+    },
+    {
+      "before": ["g", "p", "t"],
+      "commands": ["editor.action.peekTypeDefinition"]
+    },
+    {
+      "before": ["leader", "v"],
+      "commands": [":vsplit"]
+    },
+    {
+      "before": ["leader", "s"],
+      "commands": [":split"]
+    },
+    {
+      "before": ["leader", "h"],
+      "commands": ["workbench.action.focusLeftGroup"]
+    },
+    {
+      "before": ["leader", "j"],
+      "commands": ["workbench.action.focusBelowGroup"]
+    },
+    {
+      "before": ["leader", "k"],
+      "commands": ["workbench.action.focusAboveGroup"]
+    },
+    {
+      "before": ["leader", "l"],
+      "commands": ["workbench.action.focusRightGroup"]
+    },
+    {
+      "before": ["<s-h>"],
+      "commands": [":bprevious"]
+    },
+    {
+      "before": ["<s-l>"],
+      "commands": [":bnext"]
+    },
+    {
+      "before": ["leader", "r"],
+      "commands": ["editor.action.rename"]
+    },
+    {
+      "before": ["leader", "w"],
+      "commands": [":w!"]
+    },
+    // {
+    //   "before": [
+    //     "leader",
+    //     "q"
+    //   ],
+    //   "commands": [
+    //     ":q!"
+    //   ]
+    // },
+    // {
+    //   "before": [
+    //     "leader",
+    //     "x"
+    //   ],
+    //   "commands": [
+    //     ":x!"
+    //   ]
+    // },
+    {
+      "after": ["g", "g", "V", "G"],
+      "before": ["<c-a>"]
+    },
+    // {
+    //   "before": [
+    //     "<leader>",
+    //     "k"
+    //   ],
+    //   "commands": [
+    //     "editor.action.showHover"
+    //   ]
+    // },
+    {
+      "before": ["[", "d"],
+      "commands": ["editor.action.marker.prev"]
+    },
+    {
+      "before": ["]", "d"],
+      "commands": ["editor.action.marker.next"]
+    },
+    {
+      "before": ["<leader>", "c", "a"],
+      "commands": ["editor.action.quickFix"]
+    },
+    {
+      "after": ["^"],
+      "before": ["H"]
+    },
+    {
+      "after": ["$"],
+      "before": ["L"]
+    },
+    {
+      "before": ["leader", "i"],
+      "commands": ["extension.toggleBool"]
+    }
+  ],
+  "vim.useSystemClipboard": true,
+  "window.zoomLevel": 1,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.settings.editor": "json",
+  "workbench.startupEditor": "readme",
+  "zenMode.hideLineNumbers": false,
+  "vim.statusBarColors.easymotioninputmode": "",
+  "vim.statusBarColors.easymotionmode": ["#007acc", "#ffffff"],
+  "vim.easymotionDimBackground": false,
+  "vim.visualModeKeyBindings": [
+    // Stay in visual mode while indenting
+    {
+      "before": ["<"],
+      "commands": ["editor.action.outdentLines"]
+    },
+    {
+      "before": [">"],
+      "commands": ["editor.action.indentLines"]
+    },
+    // Move selected lines while staying in visual mode
+    // {
+    //   "before": [
+    //     "J"
+    //   ],
+    //   "commands": [
+    //     "editor.action.moveLinesDownAction"
+    //   ]
+    // },
+    // {
+    //   "before": [
+    //     "K"
+    //   ],
+    //   "commands": [
+    //     "editor.action.moveLinesUpAction"
+    //   ]
+    // },
+    // toggle comment selection
+    {
+      "before": ["leader", "c"],
+      "commands": ["editor.action.commentLine"]
+    }
+  ],
+  "workbench.editor.showTabs": "single",
+  "editor.fontSize": 13,
+  "editor.wordWrap": "on",
+  "javascript.format.semicolons": "insert",
+  "typescript.format.semicolons": "insert",
+  "solidity.telemetry": true,
+  "json.format.enable": false,
+  "sortJSON.contextMenu": {
+    "sortJSON": false,
+    "sortJSONReverse": false,
+    "sortJSONKeyLength": false,
+    "sortJSONKeyLengthReverse": false,
+    "sortJSONAlphaNum": false,
+    "sortJSONValues": false,
+    "sortJSONValuesReverse": false,
+    "sortJSONType": false,
+    "sortJSONTypeReverse": false
+  },
+  "json.validate.enable": false,
+  "sortJSON.orderUnderride": [],
+  "sortJSON.excludedFiles": ["package.json"],
+  "workbench.colorTheme": "JellyFish",
+  "workbench.activityBar.location": "hidden"
+}
