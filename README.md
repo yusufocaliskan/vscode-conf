@@ -37,3 +37,8 @@ Switch between splitted editors:
 - Switching to the Left: **space+h**
 - Switching to the Down: **space+j**
 - Switching to the Up: **space+k**
+
+Definition:
+
+- Hover or shoe: **cmd+u**
+- Go to the Definition: **cmd+shift+u**
