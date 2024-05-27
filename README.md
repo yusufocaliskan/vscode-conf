@@ -19,13 +19,15 @@ Explorer:
 
 - Open Left side Explorer With the active file: **cmd+shift+e**
 - Close the Explorer: **cmd+b**
+- Toggle Activity Bar: **cmd+shift+o**
 
 Find It faster:
 
-- Search a file: **cmd+shif+j**
-- Search a text: **cmd+shif+k**
+- Search a file (toggle): **cmd+shif+j**
+- Search a text (toggle): **cmd+shif+k**
 
 Editor:
+
 To split an editor (Vertically or Horizontally):
 
 - Vertical split: **space+v**
