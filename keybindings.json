@@ -1,5 +1,15 @@
-// Place your key bindings in this file to override the defaultsauto[]
+
 [
+{
+        "key": "alt+shift+t",  // or any key combination you prefer
+        "command": "workbench.action.focusActiveEditorGroup",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "alt+shift+t",  // same key combination as above
+        "command": "workbench.action.terminal.focus",
+        "when": "editorTextFocus"
+    },
     {
       "key": "cmd+k m", 
       "command": "workbench.action.moveEditorToNextGroup",
@@ -538,6 +548,10 @@
   "key": "cmd+l",
   "command": "-expandLineSelection",
   "when": "textInputFocus"
+},
+{
+  "key": "shift+alt+/",
+  "command": "workbench.action.terminal.moveToTerminalPanel"
 }
   
   ]
